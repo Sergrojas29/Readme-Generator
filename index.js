@@ -84,7 +84,7 @@ ${Tests}
 
 ${licenses[license].url}`;
 
-    fs.writeFileSync('NewReadme.md', template)
+    fs.writeFileSync('GeneratedReadme.md', template)
 
 }
 

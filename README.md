@@ -1,5 +1,62 @@
-# Readme-Generator
-Create readme through the console
+# ReadMe Generator
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
+A command line program that will auto-gen a read me based on user input
+
+
+#Table of Contents
+
+1. [Authors](#authors)
+
+2. [Usage/Examples](#usageexamples)
+    
+3. [Installation](#installation)  
+    
+4. [Demo](#demo)
+    
+5. [Contributing](#contributing)
+    
+6. [Tests](#tests)
+
+
+## Authors
+
+[@Sergrojas29](https://www.github.com/Sergrojas29)
+
+
+    
+## Usage/Examples
+
+Used for readme generation 
+
+
+
+## Installation
+
+
+Must have node js installed on you PC 
+
+
+    
+## Demo
+
+    
+
+
+
+    
+## Questions
+Contact me : 
+
+Github: Sergrojas29
+
+Email: Sergrojas29@gmail.com
+    
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
 ## User Story
